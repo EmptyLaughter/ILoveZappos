@@ -17,7 +17,7 @@ import java.util.List;
 
 public class ProductFetch extends AsyncTask<String, Void, List<Product>> {
     private static final String ZAPPOS_API = "https://api.zappos.com/Search?";
-    private static final String KEY = "b743e26728e16b81da139182bb2094357c31d331";
+    private static final String KEY = "some_random_api_key";
 
     /**
      * Obtains data for a product page by creating an http connection to send a search query,
