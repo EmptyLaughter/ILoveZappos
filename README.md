@@ -1,3 +1,5 @@
+# ILoveZappos (what I was told to call this project)
+
 This project is for the Zappos Android Application Challenge. The app takes input from the user as a search query and searches the Zappos api. The first result is displayed as a product page. The floating action button allows users to add the item to cart. When clicked, the fab inflates and shrinks back to its original size to confirm selection.
 
 Some resources that I found helpful throughout the development process:
